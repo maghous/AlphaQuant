@@ -159,4 +159,4 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 👤 Author
 
 Built by a passionate **Quantitative Finance & Data Science** enthusiast.  
-Feel free to connect on [LinkedIn](https://linkedin.com/in/YOUR_PROFILE) or open an issue for questions!
+Feel free to connect on [LinkedIn](https://linkedin.com/in/abdellahmaghous) or open an issue for questions!
